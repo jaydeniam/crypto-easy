@@ -2,7 +2,7 @@ finally a different kind of binary
 ===
 
 ## Description
-I am sick of everyone knowing binary. Solve this different type binary instead.
+I am sick of everyone knowing ACSII binary. Solve this different type binary instead.
 
 Flag Format: YCEP2023{<Road Name>}
 
