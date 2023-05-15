@@ -7,7 +7,7 @@ I am sick of everyone knowing binary. Solve this new binary instead.
 Flag Format: YCEP2023{<Road Name>}
 
 ## Hints
-1. My reaking "" key wont unction. So "d"uck binary.
+1. My reaking "" key wont unction. So uck binary.
 2. A stack of base.
 3. I love Ceaser Salad.
 
