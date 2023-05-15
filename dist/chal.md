@@ -1,1 +1,17 @@
-finally a different kind a binary
+finally a different kind of binary
+===
+
+## Description
+I am sick of everyone knowing binary. Solve this new binary instead.
+
+Flag Format: YCEP2023{<Road Name>}
+
+## Hints
+1. My reaking "" key wont unction. So "d"uck binary.
+2. A stack of base.
+3. I love Ceaser Salad.
+
+## Flag
+```
+YCEP2023{thi5_i5_b4d}
+```
