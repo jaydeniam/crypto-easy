@@ -13,5 +13,5 @@ Flag Format: YCEP2023{<Road Name>}
 
 ## Flag
 ```
-YCEP2023{thi5_i5_b4d}
+YCEP2023{th15_i5_b4d}
 ```
